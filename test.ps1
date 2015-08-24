@@ -12,4 +12,4 @@ Install-DotNetService -Path "./Program.exe" -Verbose
 Start-DotNetService -Path "./Program.exe" -Verbose
 Stop-DotNetService -Path "./Program.exe" -Verbose
 UnInstall-DotNetService -Name "MyService" -Verbose
-Remove-Module DotNetService
+#Remove-Module DotNetService
