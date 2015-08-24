@@ -1,0 +1,2 @@
+# DotNetService
+DotNetService powershell module
